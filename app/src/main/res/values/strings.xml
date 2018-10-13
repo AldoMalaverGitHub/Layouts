@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Layouts</string>
+    <string name="Java">Java</string>
+    <string name="Kotlin">Kotlin</string>
+    <string name="Android">Android</string>
 </resources>
